@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34952#Nas-trevasSonetos-sentimentaes-e-humoristicos
 gutenberg_issued: '2011-01-13'
 gutenberg_type: Text
 identifiers:
